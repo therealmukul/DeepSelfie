@@ -1,6 +1,4 @@
 # Mukul Surajiwale
-# ECSE 4965: Deep Learning
-# Final Project
 # 5/9/2017
 
 import tensorflow as tf
