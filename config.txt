@@ -1,0 +1,10 @@
+conv1: 7x7, 32 filters, stride of 1
+maxpool: 2x2, stride of 2
+conv2: 5x5, 64 filters, stride of 1
+maxpool: 2x2, stride of 2
+conv3: 3x3, 128 filters, stide of 1
+
+learning rate = 0.001
+batch_size = 200
+validation error = 2.75
+iterations = 5000
