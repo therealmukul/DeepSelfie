@@ -10,3 +10,7 @@ Lastly, it should be noted that all the weights are initialized using Tensorflow
 
 ## Results
 Using batch size of 200 the model is able to achieve a training error or 1.892 cm and a validation error of 2.59 cm. The model is trained for 12.5 epochs and took approximately 9 hours to train.
+
+
+## Future Work
+Since I don't have a GPU at the moment training takes a very long time. This severely limits my ability to run a more complex model. Once I get a GPU, which will be soon, I should be able to train a more complex model that uses all data pathways.
