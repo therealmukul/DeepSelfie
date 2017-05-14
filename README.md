@@ -13,4 +13,4 @@ Using batch size of 200 the model is able to achieve a training error or 1.892 c
 
 
 ## Future Work
-Since I don't have a GPU at the moment training takes a very long time. This severely limits my ability to run a more complex model. Once I get a GPU, which will be soon, I should be able to train a more complex model that uses all data pathways.
+Since I don't have a GPU at the moment training takes a very long time. This severely limits my ability to run a more complex model. Once I get a GPU, which will be soon, I should be able to train a more complex model that uses all data pathways. This model should be able to achieve a much better validation accuracy.
